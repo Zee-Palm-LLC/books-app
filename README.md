@@ -1,16 +1,10 @@
-# books_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Book App UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes Book App UI with home and book detail screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeepalm-training-grounds/books-app/assets/128903428/9d0958a5-af57-4c4c-a540-ce4b3419e0c2" width="200" height="400" />
+<img src="https://github.com/zeepalm-training-grounds/books-app/assets/128903428/e8dfcf7e-3a0d-4f2c-bbc3-2efd699f7ef0" width="200" height="400" />
